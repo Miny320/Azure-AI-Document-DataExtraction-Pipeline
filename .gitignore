@@ -398,6 +398,3 @@ local.settings.json
 
 # App Specific
 *Outputs.json
-branch_structure.json
-temp_auto_push.bat
-temp_interactive_push.bat
